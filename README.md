@@ -1,0 +1,2 @@
+# safelink-minsithu
+safelink
